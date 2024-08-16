@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
@@ -75,9 +76,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName-Securities)](https://github.com/hanit3/NoName-Securities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName_Scenario3_Mobile_Ransom)](https://github.com/hanit3/NoName_Scenario3_Mobile_Ransom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=BikeMate)](https://github.com/hanit3/BikeMate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=QUOTKA_FINAL)](https://github.com/hanit3/QUOTKA_FINAL)
-</div>
+
