@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Hello Hanit World%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
