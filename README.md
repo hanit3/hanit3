@@ -16,6 +16,21 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
 </div>
+<br>
+
+<h3 align="center"> 🌱 </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&lines=I%E2%80%99m+currently+learning;Hacking+and+Penetration+Testing" alt="Typing SVG" /></a>
+</div>
+<br>
+
+<h3 align="center"> Interests </h3>
+<div align="center">
+  - 🛡️ Security Engineering
+  - ⚔️ Hacking and Penetration Testing
+  - 🩺 Vulnerability Assessment
+</div>
+<br>
 
 <h3 align="center">💻 Programming </h3>
 <div align="center"> 
