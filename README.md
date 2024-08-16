@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/kalilinux-20232a.svg?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" />
- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />
   <img src="https://img.shields.io/badge/amazonaws-20232a.svg?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
