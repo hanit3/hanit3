@@ -76,7 +76,13 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName-Securities" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName_Scenario3_Mobile_Ransom" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=BikeMate" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=QUOTKA_FINAL" />
+</div>
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName-Securities)](https://github.com/hanit3/NoName-Securities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName_Scenario3_Mobile_Ransom)](https://github.com/hanit3/NoName_Scenario3_Mobile_Ransom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=BikeMate)](https://github.com/hanit3/BikeMate)
