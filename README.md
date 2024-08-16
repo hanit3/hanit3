@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/kalilinux-20232a.svg?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-0283D0.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual%20Studio-20232a.svg?style=for-the-badge&logo=visual-studio&logoColor=0283D0"/> 
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />
   <img src="https://img.shields.io/badge/AWS-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" />
