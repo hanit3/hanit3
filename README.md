@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
-
+<h3 align="center">✨ Tech Stack ✨</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&lines=Languages)](https://git.io/typing-svg)
-<div> 
+<div align="center"> 
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=openjdk&logoColor=F80000" />
   <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=F05138" />
@@ -26,16 +28,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/javascirpt-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 </div>
-<div>
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/frida-20232a.svg?style=for-the-badge&logo=frida&fontColor=EF6456" />
 </div>
-<div>
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/kalilinux-20232a.svg?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Visual%20Studio-20232a.svg?style=for-the-badge&logo=visual-studio&logoColor=0283D0"/> 
