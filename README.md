@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanit3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=NoName-Securities)](https://github.com/hanit3/NoName-Securities)
