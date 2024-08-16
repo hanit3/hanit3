@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center"> Interests </h3>
+<h3 align="center">💥 Interests </h3>
 <div align="center">
   - 🛡️ Security Engineering <br>
   - ⚔️ Hacking and Penetration Testing <br>
