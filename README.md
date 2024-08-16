@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hanit's%20World!&fontColor=000000&animation=fadeIn&textBg=false" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanit3&count_private=true&show_icons=true&theme=radical&locale=kr)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanit3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
