@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual%20Studio-0283D0.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />
-  <img src="https://img.shields.io/badge/amazonaws-20232a.svg?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/amazonwebservices-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
