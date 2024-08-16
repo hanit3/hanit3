@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&lines=Languages)](https://git.io/typing-svg)
 <div> 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/typescript.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 </div>
 
 
