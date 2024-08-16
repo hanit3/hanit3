@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=BikeMate)](https://github.com/hanit3/BikeMate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanit3&repo=QUOTKA_FINAL)](https://github.com/hanit3/QUOTKA_FINAL)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanit3&layout=compact&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanit3&layout=compact&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
