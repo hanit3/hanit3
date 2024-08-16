@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
   <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000" />
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />
   <img src="https://img.shields.io/badge/kalilinux-20232a.svg?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
