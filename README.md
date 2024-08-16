@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/frida-20232a.svg?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/4073090&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/frida-20232a.svg?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/4073090&logoColor=EF6456" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/amazonaws-20232a.svg?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </div>
