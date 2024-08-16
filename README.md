@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=F80000" />
 </div>
 <div>
-  <img src="https://avatars.githubusercontent.com/u/4073090?s=200&v=4?style=for-the-badge&logo=frida&logoColor=61DAFB" />
+  <img src="https://avatars.githubusercontent.com/u/4073090?style=for-the-badge&logo=frida&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 </div>
