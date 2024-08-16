@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <div>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9200&center=true&vCenter=true&width=435&lines=Languages)](https://git.io/typing-svg)
-  <p></p>
   
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
