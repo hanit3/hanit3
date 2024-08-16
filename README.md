@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🌱 </h3>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&lines=I%E2%80%99m+currently+learning..." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&center=true&lines=I%E2%80%99m+currently+learning..." alt="Typing SVG" />
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&lines=Hacking+and+Pen+Testing" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6A9200&width=435&center=true&lines=Hacking+and+Pen+Testing" alt="Typing SVG" />
 </div>
 <br>
 
