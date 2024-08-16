@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/django-20232a?style=for-the-badge&logo=django&logoColor=092E20">
+  <img src="https://img.shields.io/badge/django-20232a?style=for-the-badge&logo=django&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
