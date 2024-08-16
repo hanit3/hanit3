@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **hanit3/hanit3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
