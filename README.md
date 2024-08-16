@@ -44,7 +44,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/burpsuite-20232a.svg?style=for-the-badge&logo=burpsuite&fontColor=FF6633" />
   <img src="https://img.shields.io/badge/wireshark-20232a.svg?style=for-the-badge&logo=wireshark&fontColor=1679A7" />
   <img src="https://img.shields.io/badge/kalilinux-20232a.svg?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/metasploit-20232a.svg?style=for-the-badge&logo=metasploit&fontColor=2596CD" />
+   <img src="https://img.shields.io/badge/jadx-20232a.svg?style=for-the-badge&logo=jadx&fontColor=2596CD" />
   <img src="https://img.shields.io/badge/apktools-20232a.svg?style=for-the-badge&logo=apktools&fontColor=2596CD" />
   <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&fontColor=FFFFFF" />
 </div>
