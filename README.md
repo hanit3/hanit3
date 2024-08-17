@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center">🛡️ Securities </h3>
+<h3 align="center">🛡️ Cybersecurity </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/burpsuite-20232a.svg?style=for-the-badge&logo=burpsuite&fontColor=FF6633" />
   <img src="https://img.shields.io/badge/wireshark-20232a.svg?style=for-the-badge&logo=wireshark&fontColor=1679A7" />
