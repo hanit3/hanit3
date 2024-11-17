@@ -36,21 +36,14 @@ Here are some ideas to get you started:
 <div align="center"> 
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=openjdk&logoColor=F80000" />
-  <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=F05138" />
   <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/javascirpt-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/django-20232a?style=for-the-badge&logo=django&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/oracle-20232a.svg?style=for-the-badge&logo=oracle&logoColor=4479A1" />
 </div>
 <br>
 
@@ -64,7 +57,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/metasploit-20232a.svg?style=for-the-badge&logo=metasploit&fontColor=2596CD" />
    <img src="https://img.shields.io/badge/jadx-20232a.svg?style=for-the-badge&logo=jadx&fontColor=2596CD" />
   <img src="https://img.shields.io/badge/apktools-20232a.svg?style=for-the-badge&logo=apktools&fontColor=2596CD" />
-  <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&fontColor=FFFFFF" />
 </div>
 <br>
 
